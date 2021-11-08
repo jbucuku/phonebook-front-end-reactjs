@@ -21,4 +21,5 @@ class ContactService{
         return axios.delete("http://localhost:8080/api/v1/contacts/delete/" + contactId)
     }
 }
+
 export default new ContactService();
