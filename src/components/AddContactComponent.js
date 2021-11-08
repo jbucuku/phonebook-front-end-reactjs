@@ -87,7 +87,6 @@ useEffect(() => {
                                     onChange = {(e) => setCompany(e.target.value)}>
                                      </input>
                                 </div>
-
                                 <div className="form-group mb-2">
                                     <label className="form-label">Phone Number </label>
                                     <input 
