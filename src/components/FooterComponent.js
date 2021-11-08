@@ -5,7 +5,7 @@ const FooterComponent = () => {
     return (
         <><div class="card text-center">
                 <div class="card-header">
-                    Featured
+                    Featured 
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">All Rights Reserved 2021 @JorgeDev</h5>
